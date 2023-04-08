@@ -1,4 +1,4 @@
-# Three.js Journey
+# Set up miniature
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
